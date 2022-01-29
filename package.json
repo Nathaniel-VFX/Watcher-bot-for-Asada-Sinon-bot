@@ -1,0 +1,21 @@
+{
+  "name": "Watcher-bot-private",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node": "^16.13.2"
+  },
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "discord.js": "^13.6.0",
+    "fs": "0.0.1-security"
+  }
+}
